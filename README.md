@@ -164,12 +164,7 @@ MBA (Finance & Marketing)
 
 Aspiring Data Analyst
 
----
 
-## 📬 Connect With Me
-
-- LinkedIn: *(Add your LinkedIn profile link)*
-- GitHub: *(Add your GitHub profile link)*
 
 ---
 
