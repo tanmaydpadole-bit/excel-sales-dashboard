@@ -92,19 +92,7 @@ The dataset contains information about:
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-Images/Dashboard.png
-```
-
-or
-
-```markdown
-![Dashboard](Images/Dashboard.png)
-```
+"C:\Users\ASUS\Pictures\Screenshots\FINAL SUPERSALE DASHBOARD.png"
 
 ---
 
