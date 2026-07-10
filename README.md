@@ -92,7 +92,7 @@ The dataset contains information about:
 
 ## 📊 Dashboard Preview
 
-"C:\Users\ASUS\Pictures\Screenshots\FINAL SUPERSALE DASHBOARD.png"
+<img width="611" height="790" alt="FINAL SUPERSALE DASHBOARD" src="https://github.com/user-attachments/assets/c09f1624-3f3e-4b1e-a876-dd336a5d5e10" />
 
 ---
 
